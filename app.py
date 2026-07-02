@@ -1,7 +1,7 @@
 # Simple Python Program
 
 def greet(jagadeesh):
-    return f"Hello, {name}! Welcome to Python."
+    return f"Hello, {name}! Welcome to Java."
 
 # User input
 name = input("Enter your name:BJ ")
